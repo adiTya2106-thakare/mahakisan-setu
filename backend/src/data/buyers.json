@@ -1,0 +1,85 @@
+[
+  {
+    "id": "buyer-01",
+    "name": "Sahyadri Farmer Producer Co. Ltd.",
+    "district": "Nashik / Dindori",
+    "type": "Mega Processor & Agri Exporter",
+    "badge": "Govt. MSInS Partner",
+    "trustScore": 99,
+    "paymentReliability": "100% On-Time (Avg 1.5 Days)",
+    "annualProcurement": "1,80,000 MT",
+    "cropsLookingFor": ["Nashik Red Onion", "Hybrid Tomato", "Grapes", "Pomegranate"],
+    "escrowCompleted": "₹48.2 Cr",
+    "minVolumeMT": 15,
+    "activeRequirements": [
+      { "crop": "Nashik Red Onion", "quantityQtl": 2500, "targetPrice": 2650, "qualitySpec": "Size 50mm+, Moisture < 12%, No sprouting" },
+      { "crop": "Hybrid Tomato", "quantityQtl": 1200, "targetPrice": 2300, "qualitySpec": "Firm red, Brix > 4.5, Crate packed" }
+    ]
+  },
+  {
+    "id": "buyer-02",
+    "name": "Haldiram Snacks Pvt. Ltd.",
+    "district": "Nagpur & Pune Plants",
+    "type": "Food Processing Conglomerate",
+    "badge": "APMC A-Class License",
+    "trustScore": 98,
+    "paymentReliability": "99.4% On-Time (Avg 2.0 Days)",
+    "annualProcurement": "95,000 MT",
+    "cropsLookingFor": ["Soybean", "Chana / Gram", "Nagpur Orange", "Red Onion"],
+    "escrowCompleted": "₹62.8 Cr",
+    "minVolumeMT": 20,
+    "activeRequirements": [
+      { "crop": "Soybean", "quantityQtl": 4000, "targetPrice": 4920, "qualitySpec": "Oil content > 18.5%, Moisture < 10%" },
+      { "crop": "Nagpur Mandarin Orange", "quantityQtl": 1800, "targetPrice": 5500, "qualitySpec": "Pulp extraction spec, Brix > 10" }
+    ]
+  },
+  {
+    "id": "buyer-03",
+    "name": "ITC Agri Business Division (e-Choupal)",
+    "district": "Latur & Pune Hubs",
+    "type": "National Institutional Buyer",
+    "badge": "WDRA Verified Buyer",
+    "trustScore": 97,
+    "paymentReliability": "99.8% Escrow Direct",
+    "annualProcurement": "3,20,000 MT",
+    "cropsLookingFor": ["Soybean", "Wheat", "Maize", "Spices"],
+    "escrowCompleted": "₹112.5 Cr",
+    "minVolumeMT": 30,
+    "activeRequirements": [
+      { "crop": "Soybean", "quantityQtl": 6500, "targetPrice": 4950, "qualitySpec": "JS-335 / MAUS, Foreign matter < 1%" }
+    ]
+  },
+  {
+    "id": "buyer-04",
+    "name": "Reliance Retail Fresh (JioKrishi)",
+    "district": "Ghansoli / Navi Mumbai & Narayangaon",
+    "type": "Organized Retail & Direct Sourcing",
+    "badge": "MSAMB Direct License",
+    "trustScore": 96,
+    "paymentReliability": "98.5% Automated UPI/NEFT",
+    "annualProcurement": "1,40,000 MT",
+    "cropsLookingFor": ["Tomato", "Onion", "Banana", "Pomegranate", "Green Veg"],
+    "escrowCompleted": "₹78.4 Cr",
+    "minVolumeMT": 10,
+    "activeRequirements": [
+      { "crop": "Hybrid Tomato", "quantityQtl": 2000, "targetPrice": 2320, "qualitySpec": "Grade A table fruit, zero pest blemish" },
+      { "crop": "Jalgaon Grand Naine Banana", "quantityQtl": 3500, "targetPrice": 2080, "qualitySpec": "Calibrated length 18cm+, green stage" }
+    ]
+  },
+  {
+    "id": "buyer-05",
+    "name": "Mahabanana & Fruit Exporters Consortium",
+    "district": "Jalgaon & Raver",
+    "type": "Cold Chain & Gulf Exporter",
+    "badge": "APEDA Certified Exporter",
+    "trustScore": 98,
+    "paymentReliability": "99.1% LC & Bank Escrow",
+    "annualProcurement": "65,000 MT",
+    "cropsLookingFor": ["Jalgaon Banana", "Solapur Pomegranate"],
+    "escrowCompleted": "₹34.1 Cr",
+    "minVolumeMT": 25,
+    "activeRequirements": [
+      { "crop": "Jalgaon Grand Naine Banana", "quantityQtl": 5000, "targetPrice": 2150, "qualitySpec": "Reefer container ready, APEDA MRL compliant" }
+    ]
+  }
+]
